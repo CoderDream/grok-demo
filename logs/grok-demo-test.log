@@ -1,0 +1,7 @@
+2020 十一月 04 15:50:42,533: FATAL main AppTest- fatal level log
+2020 十一月 04 15:55:36,013: INFO main AppTest- info level log
+2020 十一月 04 15:55:36,016: ERROR main AppTest- error level log
+2020 十一月 04 15:55:36,017: FATAL main AppTest- fatal level log
+2020 十一月 04 15:56:13,218: INFO main AppTest- info level log
+2020 十一月 04 15:56:13,218: ERROR main AppTest- error level log
+2020 十一月 04 15:56:13,223: FATAL main AppTest- fatal level log

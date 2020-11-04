@@ -1,0 +1,5 @@
+2020-11-04 15:55:35.990 [main] TRACE com.coderdream.AppTest - trace level log
+2020-11-04 15:55:36.012 [main] DEBUG com.coderdream.AppTest - debug level log
+2020-11-04 15:55:36.013 [main] INFO  com.coderdream.AppTest - info level log
+2020-11-04 15:55:36.016 [main] ERROR com.coderdream.AppTest - error level log
+2020-11-04 15:55:36.017 [main] FATAL com.coderdream.AppTest - fatal level log
